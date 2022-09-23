@@ -12,10 +12,3 @@
 -->
 
 <p><img src="https://komarev.com/ghpvc/?username=hexa-apps"%20 alt="hexa-apps"/></p>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hexa-apps&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexa-apps" />
-</a>
